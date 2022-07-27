@@ -14,7 +14,7 @@ I am Arthur Camponez, mostly knowed on the internet as Camponez
 
 <img src="https://github-readme-stats.vercel.app/api?username=CamponezTV&&show_icons=true&title_color=35FF69&icon_color=35FF69&text_color=35FF69&bg_color=151515">[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=CamponezTV&theme=dark&date_format=M%20j%5B%2C%20Y%5D&ring=35FF69&fire=35FF69&currStreakLabel=35FF69)](https://git.io/streak-stats)
 
-# I code with
+# 👨‍💻 I code with
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
