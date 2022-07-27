@@ -1,5 +1,4 @@
 ### Hi there! <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width= 32px> I am Arthur Camponez, mostly knowed on the internet as Camponez
-   ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id=CamponezTV&left_color=#151515&right_color=#35FF69)
 
 - 😄 Pronouns: He/his
 - 🔭 I’m currently working intern on Banestes S/A Banco do Estado do Espírito Santo
