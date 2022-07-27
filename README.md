@@ -6,4 +6,7 @@
 - 💬 Ask me about Animes / Indie Games / Music
 - 📫 How to reach me: [Linkedin - Arthur Marinho](https://www.linkedin.com/in/arthur-marinho-36246a1b7/) | [Instagram - @camponezarthur](https://www.instagram.com/camponezarthur) | [Twitter - @CamponezTV](https://twitter.com/CamponezTV)
 - ⚡ Fun fact: I'm 6' 3"
--->
+
+# 📈 Github Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=CamponezTV&&show_icons=true&title_color=35FF69&icon_color=35FF69&text_color=35FF69&bg_color=151515">[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=CamponezTV&theme=dark&date_format=M%20j%5B%2C%20Y%5D&ring=35FF69&fire=35FF69&currStreakLabel=35FF69)](https://git.io/streak-stats)
