@@ -1,7 +1,7 @@
 <div align="center">
   <img src="header.png" width="800">
   <br>
-  <h1>👋 Hi, I'm Arthur Camponez!</h1>
+  <h1> Hi, I'm Arthur Camponez!</h1>
   <p align="center">
     <strong>Software Developer • Tech Enthusiast • Gamer</strong>
   </p>
@@ -15,7 +15,7 @@
 
 ---
 
-### 🚀 About Me
+### About Me
 
 I'm a **22-year-old** Software Developer based in **Vila Velha, ES - Brazil**. I'm passionate about building efficient, scalable applications and exploring the latest technologies.
 
@@ -27,7 +27,7 @@ I'm a **22-year-old** Software Developer based in **Vila Velha, ES - Brazil**. I
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 #### Frontend
 
@@ -62,15 +62,15 @@ I'm a **22-year-old** Software Developer based in **Vila Velha, ES - Brazil**. I
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CamponezTV&show_icons=true&title_color=35FF69&icon_color=35FF69&text_color=35FF69&bg_color=151515" height="170" alt="GitHub Stats">
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=CamponezTV&show_icons=true&title_color=35FF69&icon_color=35FF69&text_color=35FF69&bg_color=151515" height="170" alt="GitHub Stats">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=CamponezTV&theme=dark&date_format=M%20j%5B%2C%20Y%5D&ring=35FF69&fire=35FF69&currStreakLabel=35FF69&background=151515" height="170" alt="Streak Stats">
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamponezTV&layout=compact&title_color=35FF69&icon_color=35FF69&text_color=35FF69&bg_color=151515" height="170" alt="Top Languages">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=CamponezTV&layout=compact&title_color=35FF69&icon_color=35FF69&text_color=35FF69&bg_color=151515" height="170" alt="Top Languages">
 </div>
 
 ---
